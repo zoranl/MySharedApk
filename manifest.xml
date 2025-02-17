@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<applications>
+	<apk>
+		<id>1</id>
+		<appName>myMath</appName>
+		<fileName>com.zoranl.mymath-v1(0.9b)-debug.apk</fileName>
+		<version>v0.9b</version>
+		<dateCreated>1739813491990</dateCreated>
+		<fileSize>25535840</fileSize>
+		
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(0.9b)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>2</id>
+		<appName>BTapp</appName>
+		<fileName>com.zoranl.btapp-v2(0.9b)-debug.apk</fileName>
+		<version>v0.9b</version>
+		<dateCreated>1739813492222</dateCreated>
+		<fileSize>25522840</fileSize>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.btapp-v2(0.9b)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>3</id>
+		<appName>WifiApp</appName>
+		<fileName>com.zoranl.wifiapp-v1(0.8)-debug.apk</fileName>
+		<version>v0.9b</version>
+		<dateCreated>1738113492222</dateCreated>
+		<fileSize>25599940</fileSize>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>4</id>
+		<appName>NfcApp</appName>
+		<fileName>com.zoranl.nfcapp-v1(0.0)-debug.apk</fileName>
+		<version>v0.9b</version>
+		<dateCreated>1739813492222</dateCreated>
+		<fileSize>27772840</fileSize>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
+	</apk>
+</applications>
