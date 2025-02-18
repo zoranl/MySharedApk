@@ -24,8 +24,8 @@
 		<appName>WifiApp</appName>
 		<fileName>com.zoranl.wifiapp-v1(0.8)-debug.apk</fileName>
 		<version>v0.9b</version>
-		<dateCreated>1738113492222</dateCreated>
-		<fileSize>25599940</fileSize>
+		<dateCreated>1738113493333</dateCreated>
+		<fileSize>25599333</fileSize>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
 	</apk>
 	<apk>
@@ -33,8 +33,8 @@
 		<appName>NfcApp</appName>
 		<fileName>com.zoranl.nfcapp-v1(0.0)-debug.apk</fileName>
 		<version>v0.9b</version>
-		<dateCreated>1739813492222</dateCreated>
-		<fileSize>27772840</fileSize>
+		<dateCreated>1739813493333</dateCreated>
+		<fileSize>27733340</fileSize>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
 	</apk>
 </applications>
