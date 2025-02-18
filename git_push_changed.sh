@@ -16,6 +16,7 @@ git status
 changed_files=$(git diff --name-only --no-color)
 
 if [[ -z $changed_files ]]; then
+	echo
 	echo !!!!no files changed!!!!
 	exit
 fi
