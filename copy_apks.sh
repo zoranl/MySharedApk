@@ -66,7 +66,7 @@ FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.mymath-v1\(0.9b\)-debug.apk
 
 check_files
 
-FILE_SOURCE=/d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.myapp-v1\(0.1a\)-debug.apk
+FILE_SOURCE=/d/androidWorkspace/MyApp/app/build/outputs/apk/debug/com.zoranl.myapp-v1\(0.1a\)-debug.apk
 FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.myapp-v1\(0.1a\)-debug.apk
 
 check_files

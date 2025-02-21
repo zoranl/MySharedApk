@@ -8,7 +8,7 @@
 		<dateCreatedReadable>2025-01-30 00:43:08</dateCreatedReadable>
 		<fileSize>17589844</fileSize>
 		<package></package>
-		<version>11</version>
+		<version></version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.btapp-v2(0.9b)-debug.apk</link>
 	</apk>
 	<apk>
@@ -19,7 +19,7 @@
 		<dateCreatedReadable>2025-02-20 22:56:26</dateCreatedReadable>
 		<fileSize>24674888</fileSize>
 		<package></package>
-		<version>12</version>
+		<version></version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.myapp-v1(0.1a)-debug.apk</link>
 	</apk>
 	<apk>
@@ -30,7 +30,7 @@
 		<dateCreatedReadable>2025-02-17 00:03:39</dateCreatedReadable>
 		<fileSize>25697723</fileSize>
 		<package></package>
-		<version>13</version>
+		<version></version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(0.9b)-debug.apk</link>
 	</apk>
 	<apk>
@@ -41,7 +41,7 @@
 		<dateCreatedReadable>2025-02-15 01:30:13</dateCreatedReadable>
 		<fileSize>24458979</fileSize>
 		<package></package>
-		<version>14</version>
+		<version></version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
 	</apk>
 	<apk>
@@ -52,7 +52,7 @@
 		<dateCreatedReadable>2025-01-30 19:33:41</dateCreatedReadable>
 		<fileSize>12813230</fileSize>
 		<package></package>
-		<version>15</version>
+		<version></version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
 	</apk>
 </applications>
