@@ -33,8 +33,8 @@ create_node() {
 #APK=com.zoranl.mymath-v1\(0.9b\)-debug.apk
 APK_NAME=$(stat -c%n "$APK")
 APK_SIZE=$(stat -c%s "$APK")
-APK_DATE=$(stat -c%W "$APK")
-APK_DATE_H=$(stat -c%w "$APK")
+APK_DATE=$(stat -c%Y "$APK")
+APK_DATE_H=$(stat -c%y "$APK")
 echo "Size of $APK = $APK_NAME $APK_DATE $APK_DATE_H $APK_SIZE bytes."
 
 #python3 <<HEREDOC
