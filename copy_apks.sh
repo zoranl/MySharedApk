@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #cp /d/androidWorkspace/MyApp/app/build/outputs/apk/debug/com.zoranl.myapp-v1(0.1a)-debug.apk  /d/mygit/MySharedApk/
-#cp /d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.mymath-v1\(0.9b\)-debug.apk  /d/mygit/MySharedApk/
+#cp /d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.mymath-v1\(1.0b\)-debug.apk  /d/mygit/MySharedApk/
 #cp /d/androidWorkspace/BTapp/app/build/outputs/apk/debug/com.zoranl.btapp-v2\(0.9b\)-debug.apk    /d/mygit/MySharedApk/
 #cp /d/androidWorkspace/WiFIApp/app/build/outputs/apk/debug/com.zoranl.wifiapp-v1\(0.8\)-debug.apk /d/mygit/MySharedApk/
 #cp /d/androidWorkspace/NfcApp/app/build/outputs/apk/debug/com.zoranl.nfcapp-v1\(0.0\)-debug.apk   /d/mygit/MySharedApk/
@@ -11,7 +11,7 @@
 file_copy() {
 # Define each array and then add it to the main one
 FILE_0=("/d/androidWorkspace/MyApp/app/build/outputs/apk/debug/com.zoranl.myapp-v1(0.1a)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.myapp-v1(0.1a)-debug.apk")
-FILE_1=("/d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.mymath-v1(0.9b)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.mymath-v1(0.9b)-debug.apk")
+FILE_1=("/d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.mymath-v1(1.0b)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.mymath-v1(1.0b)-debug.apk")
 FILE_2=("/d/androidWorkspace/BTapp/app/build/outputs/apk/debug/com.zoranl.btapp-v2(0.9b)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.btapp-v2(0.9b)-debug.apk")
 FILE_3=("/d/androidWorkspace/WiFIApp/app/build/outputs/apk/debug/com.zoranl.wifiapp-v1(0.8)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.wifiapp-v1(0.8)-debug.apk")
 FILE_4=("/d/androidWorkspace/NfcApp/app/build/outputs/apk/debug/com.zoranl.nfcapp-v1(0.0)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.nfcapp-v1(0.0)-debug.apk")
@@ -61,8 +61,8 @@ echo "-------------------------------------------"
 }
 
 main(){
-FILE_SOURCE=/d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.mymath-v1\(0.9b\)-debug.apk
-FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.mymath-v1\(0.9b\)-debug.apk
+FILE_SOURCE=/d/androidWorkspace/MyMath/app/build/outputs/apk/debug/com.zoranl.mymath-v1\(1.0b\)-debug.apk
+FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.mymath-v1\(1.0b\)-debug.apk
 
 check_files
 

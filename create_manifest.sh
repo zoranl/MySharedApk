@@ -2,7 +2,7 @@
 
 MANIFEST_ID=0
 LINK_BASE="https://github.com/zoranl/MySharedApk/raw/refs/heads/master/"
-
+export PATH=/c/LegacyApp/Python/Python311/:/c/LegacyApp/Python/Python311/lib:/c/LegacyApp/Python/Python311/libs/:$PATH
 
 clone_pyaxmlparser(){
 	echo "pyaxmlparser not found, clonning it"
