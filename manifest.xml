@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<applications>
+	<apk>
+		<id>0</id>
+		<appName>com.zoranl.btapp-v2(0.9b)-debug.apk</appName>
+		<appTitle>BTapp</appTitle>
+		<dateCreated>1739896537</dateCreated>
+		<dateCreatedReadable>2025-02-18 17:35:37</dateCreatedReadable>
+		<fileSize>17589844</fileSize>
+		<package>com.zoranl.btapp</package>
+		<version>0.9b</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.btapp-v2(0.9b)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>1</id>
+		<appName>com.zoranl.myapp-v1(0.1a)-debug.apk</appName>
+		<appTitle>MyApp</appTitle>
+		<dateCreated>1740437847</dateCreated>
+		<dateCreatedReadable>2025-02-24 23:57:27</dateCreatedReadable>
+		<fileSize>24375367</fileSize>
+		<package>com.zoranl.myapp</package>
+		<version>0.1a</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.myapp-v1(0.1a)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>2</id>
+		<appName>com.zoranl.mymath-v1(0.9b)-debug.apk</appName>
+		<appTitle>Moja Matematika</appTitle>
+		<dateCreated>1740526645</dateCreated>
+		<dateCreatedReadable>2025-02-26 00:37:25</dateCreatedReadable>
+		<fileSize>24668963</fileSize>
+		<package>com.zoranl.mymath</package>
+		<version>1.0b</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(0.9b)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>3</id>
+		<appName>com.zoranl.mymath-v1(1.0b)-debug.apk</appName>
+		<appTitle>Moja Matematika</appTitle>
+		<dateCreated>1740525819</dateCreated>
+		<dateCreatedReadable>2025-02-26 00:23:39</dateCreatedReadable>
+		<fileSize>24668963</fileSize>
+		<package>com.zoranl.mymath</package>
+		<version>1.0b</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(1.0b)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>4</id>
+		<appName>com.zoranl.nfcapp-v1(0.0)-debug.apk</appName>
+		<appTitle>NfcApp</appTitle>
+		<dateCreated>1740437849</dateCreated>
+		<dateCreatedReadable>2025-02-24 23:57:29</dateCreatedReadable>
+		<fileSize>24459863</fileSize>
+		<package>com.zoranl.nfcapp</package>
+		<version>0.0</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>5</id>
+		<appName>com.zoranl.wifiapp-v1(0.8)-debug.apk</appName>
+		<appTitle>WiFiApp</appTitle>
+		<dateCreated>1739907355</dateCreated>
+		<dateCreatedReadable>2025-02-18 20:35:55</dateCreatedReadable>
+		<fileSize>12813230</fileSize>
+		<package>com.zoranl.wifiapp</package>
+		<version>0.8</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
+	</apk>
+</applications>
+
