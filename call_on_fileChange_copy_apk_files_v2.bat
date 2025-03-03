@@ -58,6 +58,8 @@ goto retry
 :copy_file
 	copy /Y %~1 "H:\My Drive"
 	echo:
+	echo %date% %time%
+	echo:
 	echo waiting for file: %monitor_file1% change
 	echo waiting for file: %monitor_file2% change
 	echo waiting for file: %monitor_file3% change
