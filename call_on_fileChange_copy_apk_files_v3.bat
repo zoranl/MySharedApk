@@ -26,13 +26,6 @@ set lastT[4]=
 for /L %%i in (0,1,4) do (
 	for /f "delims=" %%a in ('powershell (Get-Item "'!monitor_file[%%i]!'"^).LastWriteTime') do (
 		if not defined lastT[%%i] set lastT[%%i]="%%a"
-@REM 		echo !lastT[%%i]!
-@REM 		echo '!lastT[%%i]!'
-@REM 		echo !lastT[%%i]!
-@REM 		echo '%lastT[!i!]%'
-@REM 		echo %lastT[%%i]%
-@REM 		echo %%i
-@REM 		echo !lastT[%%i]!="%%a"
 		if not "%%a" == !lastT[%%i]! (
 			echo "'!monitor_file[%%i]!'" was modified at %%a
 			set lastT[%%i]="%%a"
