@@ -29,7 +29,7 @@ for /L %%i in (0,1,4) do (
 		if not "%%a" == !lastT[%%i]! (
 			echo "'!monitor_file[%%i]!'" was modified at %%a
 			set lastT[%%i]="%%a"
-			call :copy_file "'!monitor_file[%%i]!'"
+			call :copy_file "!monitor_file[%%i]!"
 	   )
 	)
 )
