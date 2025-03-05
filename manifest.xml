@@ -15,9 +15,9 @@
 		<id>1</id>
 		<appName>com.zoranl.myapp-v1(0.1a)-debug.apk</appName>
 		<appTitle>MyApp</appTitle>
-		<dateCreated>1740437847</dateCreated>
-		<dateCreatedReadable>2025-02-24 23:57:27</dateCreatedReadable>
-		<fileSize>24375367</fileSize>
+		<dateCreated>1741207874</dateCreated>
+		<dateCreatedReadable>2025-03-05 21:51:14</dateCreatedReadable>
+		<fileSize>24834823</fileSize>
 		<package>com.zoranl.myapp</package>
 		<version>0.1a</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.myapp-v1(0.1a)-debug.apk</link>
@@ -57,11 +57,22 @@
 	</apk>
 	<apk>
 		<id>5</id>
+		<appName>com.zoranl.nfcapp-v1(0.1b)-debug.apk</appName>
+		<appTitle>NfcApp</appTitle>
+		<dateCreated>1741207978</dateCreated>
+		<dateCreatedReadable>2025-03-05 21:52:58</dateCreatedReadable>
+		<fileSize>24625720</fileSize>
+		<package>com.zoranl.nfcapp</package>
+		<version>0.1b</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.1b)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>6</id>
 		<appName>com.zoranl.wifiapp-v1(0.8)-debug.apk</appName>
 		<appTitle>WiFiApp</appTitle>
-		<dateCreated>1739907355</dateCreated>
-		<dateCreatedReadable>2025-02-18 20:35:55</dateCreatedReadable>
-		<fileSize>12813230</fileSize>
+		<dateCreated>1741207978</dateCreated>
+		<dateCreatedReadable>2025-03-05 21:52:58</dateCreatedReadable>
+		<fileSize>12820554</fileSize>
 		<package>com.zoranl.wifiapp</package>
 		<version>0.8</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
