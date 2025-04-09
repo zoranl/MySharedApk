@@ -4,9 +4,9 @@
 		<id>0</id>
 		<appName>com.zoranl.btapp-v2(0.9b)-debug.apk</appName>
 		<appTitle>BTapp</appTitle>
-		<dateCreated>1739896537</dateCreated>
-		<dateCreatedReadable>2025-02-18 17:35:37</dateCreatedReadable>
-		<fileSize>17589844</fileSize>
+		<dateCreated>1744232697</dateCreated>
+		<dateCreatedReadable>2025-04-09 23:04:57</dateCreatedReadable>
+		<fileSize>18678706</fileSize>
 		<package>com.zoranl.btapp</package>
 		<version>0.9b</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.btapp-v2(0.9b)-debug.apk</link>
@@ -46,6 +46,17 @@
 	</apk>
 	<apk>
 		<id>4</id>
+		<appName>com.zoranl.mysmarthome-v1(0.1)-debug.apk</appName>
+		<appTitle>MySmartHome</appTitle>
+		<dateCreated>1744233749</dateCreated>
+		<dateCreatedReadable>2025-04-09 23:22:29</dateCreatedReadable>
+		<fileSize>12848222</fileSize>
+		<package>com.zoranl.mysmarthome</package>
+		<version>0.1</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mysmarthome-v1(0.1)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>5</id>
 		<appName>com.zoranl.nfcapp-v1(0.0)-debug.apk</appName>
 		<appTitle>NfcApp</appTitle>
 		<dateCreated>1740437849</dateCreated>
@@ -56,7 +67,7 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>5</id>
+		<id>6</id>
 		<appName>com.zoranl.nfcapp-v1(0.1b)-debug.apk</appName>
 		<appTitle>NfcApp</appTitle>
 		<dateCreated>1741207978</dateCreated>
@@ -67,12 +78,12 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.1b)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>6</id>
+		<id>7</id>
 		<appName>com.zoranl.wifiapp-v1(0.8)-debug.apk</appName>
 		<appTitle>WiFiApp</appTitle>
-		<dateCreated>1741207978</dateCreated>
-		<dateCreatedReadable>2025-03-05 21:52:58</dateCreatedReadable>
-		<fileSize>12820554</fileSize>
+		<dateCreated>1744232698</dateCreated>
+		<dateCreatedReadable>2025-04-09 23:04:58</dateCreatedReadable>
+		<fileSize>14203364</fileSize>
 		<package>com.zoranl.wifiapp</package>
 		<version>0.8</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
