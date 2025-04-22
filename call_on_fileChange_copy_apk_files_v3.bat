@@ -8,6 +8,7 @@ set monitor_file[2]=D:\androidWorkspace\MyApp\app\build\outputs\apk\debug\com.zo
 set monitor_file[3]=D:\androidWorkspace\BTapp\app\build\outputs\apk\debug\com.zoranl.btapp-v2(0.9b)-debug.apk
 set monitor_file[4]=D:\androidWorkspace\WiFIApp\app\build\outputs\apk\debug\com.zoranl.wifiapp-v1(0.8)-debug.apk
 set monitor_file[5]=D:\androidWorkspace\MySmartHome\app\build\outputs\apk\debug\com.zoranl.mysmarthome-v1(0.1)-debug.apk
+set monitor_file[6]=D:\androidWorkspace\MyParkingMap\app\build\outputs\apk\debug\com.zoranl.myparkingmap-v1(0.1)-debug.apk
 
 echo:
 echo monitoring file: %monitor_file[0]% change
@@ -16,6 +17,7 @@ echo monitoring file: %monitor_file[2]% change
 echo monitoring file: %monitor_file[3]% change
 echo monitoring file: %monitor_file[4]% change
 echo monitoring file: %monitor_file[5]% change
+echo monitoring file: %monitor_file[6]% change
 echo:
 
 set lastT[0]=
@@ -24,6 +26,7 @@ set lastT[2]=
 set lastT[3]=
 set lastT[4]=
 set lastT[5]=
+set lastT[6]=
 :retry
 
 for /L %%i in (0,1,5) do (

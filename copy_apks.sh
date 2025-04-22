@@ -16,6 +16,7 @@ FILE_2=("/d/androidWorkspace/BTapp/app/build/outputs/apk/debug/com.zoranl.btapp-
 FILE_3=("/d/androidWorkspace/WiFIApp/app/build/outputs/apk/debug/com.zoranl.wifiapp-v1(0.8)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.wifiapp-v1(0.8)-debug.apk")
 FILE_4=("/d/androidWorkspace/NfcApp/app/build/outputs/apk/debug/com.zoranl.nfcapp-v1(0.1b)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.nfcapp-v1(0.1b)-debug.apk")
 FILE_5=("/d/androidWorkspace/MySmartHome/app/build/outputs/apk/debug/com.zoranl.mysmarthome-v1(0.1)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.mysmarthome-v1(0.1)-debug.apk")
+FILE_6=("/d/androidWorkspace/MyParkingMap/app/build/outputs/apk/debug/com.zoranl.myparkingmap-v1(0.1)-debug.apk" "/d/mygit/MySharedApk/com.zoranl.myparkingmap-v1(0.1)-debug.apk")
 APK_ARRAY=(
   FILE_0[@]
   FILE_1[@]
@@ -23,6 +24,7 @@ APK_ARRAY=(
   FILE_3[@]
   FILE_4[@]
   FILE_5[@]
+  FILE_6[@]
 )
 
 
@@ -90,6 +92,11 @@ check_files
 
 FILE_SOURCE=/d/androidWorkspace/MySmartHome/app/build/outputs/apk/debug/com.zoranl.mysmarthome-v1\(0.1\)-debug.apk
 FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.mysmarthome-v1\(0.1\)-debug.apk
+
+check_files
+
+FILE_SOURCE=/d/androidWorkspace/MyParkingMap/app/build/outputs/apk/debug/com.zoranl.myparkingmap-v1(0.1)-debug.apk
+FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.myparkingmap-v1(0.1)-debug.apk
 
 check_files
 }
