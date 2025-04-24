@@ -29,7 +29,7 @@ set lastT[5]=
 set lastT[6]=
 :retry
 
-for /L %%i in (0,1,5) do (
+for /L %%i in (0,1,6) do (
 	for /f "delims=" %%a in ('powershell (Get-Item "'!monitor_file[%%i]!'"^).LastWriteTime') do (
 		if not defined lastT[%%i] set lastT[%%i]="%%a"
 		if not "%%a" == !lastT[%%i]! (
@@ -47,7 +47,7 @@ goto retry
 	echo:
 	echo %date% %time%
 	echo:
-	for /L %%i in (0,1,5) do (
+	for /L %%i in (0,1,6) do (
 		echo waiting for file: !monitor_file[%%i]! change
 	)
 	rundll32.exe cmdext.dll,MessageBeepStub
