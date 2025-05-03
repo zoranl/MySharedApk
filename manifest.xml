@@ -4,9 +4,9 @@
 		<id>0</id>
 		<appName>com.zoranl.btapp-v2(0.9b)-debug.apk</appName>
 		<appTitle>BTapp</appTitle>
-		<dateCreated>1744232697</dateCreated>
-		<dateCreatedReadable>2025-04-09 23:04:57</dateCreatedReadable>
-		<fileSize>18678706</fileSize>
+		<dateCreated>1746264267</dateCreated>
+		<dateCreatedReadable>2025-05-03 11:24:27</dateCreatedReadable>
+		<fileSize>18678880</fileSize>
 		<package>com.zoranl.btapp</package>
 		<version>0.9b</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.btapp-v2(0.9b)-debug.apk</link>
@@ -37,26 +37,37 @@
 		<id>3</id>
 		<appName>com.zoranl.mymath-v1(1.0b)-debug.apk</appName>
 		<appTitle>Moja Matematika</appTitle>
-		<dateCreated>1740603853</dateCreated>
-		<dateCreatedReadable>2025-02-26 22:04:13</dateCreatedReadable>
-		<fileSize>24669375</fileSize>
+		<dateCreated>1746264266</dateCreated>
+		<dateCreatedReadable>2025-05-03 11:24:26</dateCreatedReadable>
+		<fileSize>24669355</fileSize>
 		<package>com.zoranl.mymath</package>
 		<version>1.0b</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(1.0b)-debug.apk</link>
 	</apk>
 	<apk>
 		<id>4</id>
+		<appName>com.zoranl.myparkingmap-v1(0.1)-debug.apk</appName>
+		<appTitle>MyParkingMap</appTitle>
+		<dateCreated>1746264268</dateCreated>
+		<dateCreatedReadable>2025-05-03 11:24:28</dateCreatedReadable>
+		<fileSize>15680753</fileSize>
+		<package>com.zoranl.myparkingmap</package>
+		<version>0.1</version>
+		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.myparkingmap-v1(0.1)-debug.apk</link>
+	</apk>
+	<apk>
+		<id>5</id>
 		<appName>com.zoranl.mysmarthome-v1(0.1)-debug.apk</appName>
 		<appTitle>MySmartHome</appTitle>
-		<dateCreated>1744233749</dateCreated>
-		<dateCreatedReadable>2025-04-09 23:22:29</dateCreatedReadable>
-		<fileSize>12848222</fileSize>
+		<dateCreated>1746264268</dateCreated>
+		<dateCreatedReadable>2025-05-03 11:24:28</dateCreatedReadable>
+		<fileSize>14068938</fileSize>
 		<package>com.zoranl.mysmarthome</package>
 		<version>0.1</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mysmarthome-v1(0.1)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>5</id>
+		<id>6</id>
 		<appName>com.zoranl.nfcapp-v1(0.0)-debug.apk</appName>
 		<appTitle>NfcApp</appTitle>
 		<dateCreated>1740437849</dateCreated>
@@ -67,7 +78,7 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>6</id>
+		<id>7</id>
 		<appName>com.zoranl.nfcapp-v1(0.1b)-debug.apk</appName>
 		<appTitle>NfcApp</appTitle>
 		<dateCreated>1741207978</dateCreated>
@@ -78,12 +89,12 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.1b)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>7</id>
+		<id>8</id>
 		<appName>com.zoranl.wifiapp-v1(0.8)-debug.apk</appName>
 		<appTitle>WiFiApp</appTitle>
-		<dateCreated>1744232698</dateCreated>
-		<dateCreatedReadable>2025-04-09 23:04:58</dateCreatedReadable>
-		<fileSize>14203364</fileSize>
+		<dateCreated>1746264267</dateCreated>
+		<dateCreatedReadable>2025-05-03 11:24:27</dateCreatedReadable>
+		<fileSize>14204118</fileSize>
 		<package>com.zoranl.wifiapp</package>
 		<version>0.8</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.wifiapp-v1(0.8)-debug.apk</link>
