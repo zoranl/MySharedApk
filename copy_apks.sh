@@ -95,8 +95,8 @@ FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.mysmarthome-v1\(0.1\)-debug.apk
 
 check_files
 
-FILE_SOURCE=/d/androidWorkspace/MyParkingMap/app/build/outputs/apk/debug/com.zoranl.myparkingmap-v1(0.1)-debug.apk
-FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.myparkingmap-v1(0.1)-debug.apk
+FILE_SOURCE=/d/androidWorkspace/MyParkingMap/app/build/outputs/apk/debug/com.zoranl.myparkingmap-v1\(0.1\)-debug.apk
+FILE_DESTINATION=/d/mygit/MySharedApk/com.zoranl.myparkingmap-v1\(0.1\)-debug.apk
 
 check_files
 }
