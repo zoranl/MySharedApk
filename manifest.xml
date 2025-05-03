@@ -24,28 +24,17 @@
 	</apk>
 	<apk>
 		<id>2</id>
-		<appName>com.zoranl.mymath-v1(0.9b)-debug.apk</appName>
-		<appTitle>Moja Matematika</appTitle>
-		<dateCreated>1740526645</dateCreated>
-		<dateCreatedReadable>2025-02-26 00:37:25</dateCreatedReadable>
-		<fileSize>24668963</fileSize>
-		<package>com.zoranl.mymath</package>
-		<version>1.0b</version>
-		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(0.9b)-debug.apk</link>
-	</apk>
-	<apk>
-		<id>3</id>
 		<appName>com.zoranl.mymath-v1(1.0b)-debug.apk</appName>
 		<appTitle>Moja Matematika</appTitle>
-		<dateCreated>1746264266</dateCreated>
-		<dateCreatedReadable>2025-05-03 11:24:26</dateCreatedReadable>
+		<dateCreated>1746301832</dateCreated>
+		<dateCreatedReadable>2025-05-03 21:50:32</dateCreatedReadable>
 		<fileSize>24669355</fileSize>
 		<package>com.zoranl.mymath</package>
 		<version>1.0b</version>
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mymath-v1(1.0b)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>4</id>
+		<id>3</id>
 		<appName>com.zoranl.myparkingmap-v1(0.1)-debug.apk</appName>
 		<appTitle>MyParkingMap</appTitle>
 		<dateCreated>1746264268</dateCreated>
@@ -56,7 +45,7 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.myparkingmap-v1(0.1)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>5</id>
+		<id>4</id>
 		<appName>com.zoranl.mysmarthome-v1(0.1)-debug.apk</appName>
 		<appTitle>MySmartHome</appTitle>
 		<dateCreated>1746264268</dateCreated>
@@ -67,7 +56,7 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.mysmarthome-v1(0.1)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>6</id>
+		<id>5</id>
 		<appName>com.zoranl.nfcapp-v1(0.0)-debug.apk</appName>
 		<appTitle>NfcApp</appTitle>
 		<dateCreated>1740437849</dateCreated>
@@ -78,7 +67,7 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.0)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>7</id>
+		<id>6</id>
 		<appName>com.zoranl.nfcapp-v1(0.1b)-debug.apk</appName>
 		<appTitle>NfcApp</appTitle>
 		<dateCreated>1741207978</dateCreated>
@@ -89,7 +78,7 @@
 		<link>https://github.com/zoranl/MySharedApk/raw/refs/heads/master/com.zoranl.nfcapp-v1(0.1b)-debug.apk</link>
 	</apk>
 	<apk>
-		<id>8</id>
+		<id>7</id>
 		<appName>com.zoranl.wifiapp-v1(0.8)-debug.apk</appName>
 		<appTitle>WiFiApp</appTitle>
 		<dateCreated>1746264267</dateCreated>
